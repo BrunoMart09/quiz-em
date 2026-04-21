@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Ensino Médio Quiz",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Quiz EM",
+  "start_url": "/",
+  "theme_color": "#4caf50",
+  "id": "quiz-em",
+  "description": "Quiz interativo para alunos do ensino médio"
+}
